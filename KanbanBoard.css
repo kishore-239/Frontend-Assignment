@@ -1,0 +1,29 @@
+.kanban-board {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .board {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .group {
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+    min-width: 200px;
+  }
+  
+  .card {
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .controls {
+    margin-bottom: 20px;
+  }
+  
